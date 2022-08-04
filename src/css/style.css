@@ -721,7 +721,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-section {
-  padding: 7em 0;
+  padding: -1em 0;
 }
 
 .probootstrap-section.probootstrap-border-top {
